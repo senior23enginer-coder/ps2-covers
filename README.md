@@ -87,3 +87,16 @@ Las imágenes se consultan en [covers](./covers). Usa sus rutas para integrarlas
 
 - [Repositorio de origen](https://github.com/miguelclaros23/ps2-covers)
 - [Proyecto del que deriva](https://github.com/xlenore/ps2-covers)
+
+<!-- station-x-repository-guide:start -->
+
+## Guía de esta copia
+
+### Cómo usar la colección
+[covers](./covers) contiene las carátulas. Usa la guía original de la herramienta PSCoverDL o de PCSX2 para elegir la ruta de destino y el formato que reconoce tu versión.
+### Verificación de una incorporación
+Confirma que el nombre coincide con el identificador esperado, que la imagen abre y que el catálogo la muestra. Consulta [missing_covers.txt](./missing_covers.txt) antes de dar por cubierta una entrada.
+### Procedencia
+Los créditos y la atribución de la colección se mantienen en la documentación original.
+
+<!-- station-x-repository-guide:end -->
