@@ -70,3 +70,20 @@ PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
 * gvcover.top
 * imkira3
 * waifu2x
+
+## Ficha del proyecto
+
+Colección de carátulas de PlayStation 2 organizada para consulta e integración con catálogos.
+
+### Contenido
+
+- [covers](./covers).
+
+### Uso
+
+Las imágenes se consultan en [covers](./covers). Usa sus rutas para integrarlas con un catálogo o lanzador compatible.
+
+### Origen
+
+- [Repositorio de origen](https://github.com/miguelclaros23/ps2-covers)
+- [Proyecto del que deriva](https://github.com/xlenore/ps2-covers)
